@@ -13,7 +13,7 @@ A menu-driven document search engine written in **C**, built as a project-based 
 | **Class** | B.Tech 2nd Year, AIML-A |
 | **Academic year** | 2026-27 |
 | **Subject** | Advanced Data Structures (25CS21001) |
-| **Project guide** | H. Venkata Ramana Rao, Associate Professor |
+| **Project guide** | Dr. H. Venkata Ramana Rao, Associate Professor |
 | **Language** | C |
 
 ## Team
@@ -124,6 +124,10 @@ Boyer-Moore skips characters using the bad character rule, so it needs far fewer
 then for each document: [id][title: 100 bytes][length][content bytes]
 ```
 
+## Documentation
+
+The `docs/` folder contains the full PBL report (`ADS_PBL_Report_Digital_Document_Search_System.docx`) and the presentation (`ADS_PBL_Presentation.pptx`).
+
 ## Limitations
 
 - Up to 1000 documents, titles up to 99 characters, indexed words up to 63 characters
@@ -138,4 +142,4 @@ then for each document: [id][title: 100 bytes][length][content bytes]
 
 ## Acknowledgement
 
-We thank our guide **H. Venkata Ramana Rao**, Associate Professor, Department of AIML, Geethanjali College of Engineering and Technology, for his guidance throughout this project.
+We thank our guide **Dr. H. Venkata Ramana Rao**, Associate Professor, Department of AIML, Geethanjali College of Engineering and Technology, for his guidance throughout this project.

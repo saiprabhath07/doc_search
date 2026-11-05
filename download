@@ -1,0 +1,5 @@
+doc_search
+doc_search.exe
+*.exe
+*.o
+docs.dat

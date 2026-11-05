@@ -777,7 +777,7 @@ void menu(void) {
     clear_screen();
     setc(BOLD CYAN);
     printf("\n  +==========================================================+\n");
-    printf("  |            DIGITAL DOCUMENT SEARCH SYSTEM                 |\n");
+    printf("  |            DIGITAL DOCUMENT SEARCH SYSTEM                |\n");
     printf("  |     Advanced Data Structures in C  -  PBL Mini Project   |\n");
     printf("  +==========================================================+\n");
     setc(RESET);
